@@ -10,17 +10,17 @@ I included the following examples:
 
 
 
-1. English speech to text function, using Whisper
+1. English speech to text function (whisper-1).
 
-2. English speech to text with and without context.
+2. English speech to text with and without context (whisper-1).
 
-3. Hungarian speech to Hungarian text.
+3. Hungarian speech to Hungarian text (whisper-1).
 
-4. Hungarian speech to English text (translation).
+4. Hungarian speech to English text translation (whisper-1).
 
-5. English text to English audio.
+5. English text to English audio (tts-1).
 
-6. Hungarian text to Hungarian audio.
+6. Hungarian text to Hungarian audio (tts-1).
 
 
 ---
